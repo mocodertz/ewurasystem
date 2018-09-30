@@ -1,0 +1,107 @@
+.combo-box{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: silver;
+    -fx-border-radius: 0;
+    -fx-font-size: 13 px;
+    -fx-min-width: 160;
+}
+
+#txt_search{
+    -fx-min-width: 700;
+}
+
+.text-field{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: silver;
+    -fx-border-radius: 0;
+    -fx-font-size: 13 px;
+    -fx-min-width: 160;
+}
+
+.button{
+    -fx-background-color: #dddddd;
+    -fx-border-color: silver;
+    -fx-border-radius: 0;
+    -fx-font-size: 13 px;
+    -fx-min-width: 100;
+}
+
+.button:focused{
+    -fx-background-color: #2a78e4;
+    -fx-text-fill: white;
+}
+
+.table-view .column-header{
+    -fx-font-size: 12px;
+    -fx-font-family: Comic Sans MS;
+    -fx-background-color:#f09810;
+    -fx-text-fill: green;
+}
+
+.table-row-cell{
+    -fx-cell-size: 30px;
+    -fx-font-size: 13px;
+}
+
+.table-row-cell:empty {
+    -fx-background-color: blue;
+}
+.table-row-cell:empty .table-cell {
+    -fx-border-width: 0px;
+}
+
+.table-row-cell:focused .table-cell{
+    -fx-text-fill: #054591;
+    -fx-font-weight: bold;
+}
+
+.scroll-pane{
+    -fx-padding: 0 5 15 0;
+}
+
+.scroll-pane:focused {
+    -fx-background-insets: 0;
+}
+
+.scroll-pane .corner {
+    -fx-background-insets: 0;
+}
+.table-view .scroll-bar:horizontal .increment-arrow,
+.table-view .scroll-bar:horizontal .decrement-arrow,
+.table-view .scroll-bar:horizontal .increment-button,
+.table-view .scroll-bar:horizontal .decrement-button {
+    -fx-padding:0;
+}
+
+.titled-pane > .title
+{
+    -fx-fill-width: true;
+    -fx-padding: 8px;
+    -fx-border-insets: 0px;
+    -fx-background-color: #dddddd;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+
+}
+
+.titled-pane{
+    -fx-fill-width: true;
+    -fx-padding: 1px;
+}
+
+
+.titled-pane > .title > .arrow-button .arrow {
+    -fx-background-color: #2a78e4;
+}
+
+.accordion{
+    -fx-box-border:transparent;
+    -fx-alignment: center;
+
+}
+
+
+.default-color0.chart-bar{-fx-bar-fill:#19586D}
+.default-color1.chart-bar{-fx-bar-fill:#FFA500}
+.default-color2.chart-bar{-fx-bar-fill:#322C2B}

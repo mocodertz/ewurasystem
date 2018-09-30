@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CapPetroleumPrice$Main.coverage" NAME="Main Coverage Results" MODIFIED="1459691396357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="502" column="86" selection-start-line="502" selection-start-column="86" selection-end-line="502" selection-end-column="86" />
+              <folding>
+                <element signature="method#call#0;class#5767:6097" expanded="false" />
+                <element signature="class#6871:7183" expanded="false" />
+                <element signature="method#call#0;class#6871:7183" expanded="false" />
+                <element signature="class#7784:8117" expanded="false" />
+                <element signature="method#call#0;class#7784:8117" expanded="false" />
+                <element signature="class#10641:10956" expanded="false" />
+                <element signature="method#call#0;class#10641:10956" expanded="false" />
+                <element signature="class#12076:12451" expanded="false" />
+                <element signature="method#call#0;class#12076:12451" expanded="false" />
+                <element signature="class#13174:13507" expanded="false" />
+                <element signature="method#call#0;class#13174:13507" expanded="false" />
+                <element signature="class#18516:18805" expanded="false" />
+                <element signature="method#call#0;class#18516:18805" expanded="false" />
+                <element signature="class#19159:19430" expanded="false" />
+                <element signature="method#call#0;class#19159:19430" expanded="false" />
+                <element signature="class#19830:20169" expanded="false" />
+                <element signature="method#call#0;class#19830:20169" expanded="false" />
+                <element signature="class#20633:20987" expanded="false" />
+                <element signature="method#call#0;class#20633:20987" expanded="false" />
+                <marker date="1472471310398" expanded="true" signature="3731:5257" placeholder="{...}" />
+                <marker date="1472471310398" expanded="true" signature="5348:5462" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="5589:6466" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="6532:6638" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="6707:7529" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="7605:8500" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="8576:9480" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="9544:10314" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="10468:11713" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="11895:12867" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="13018:13856" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="13964:14717" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="14838:14967" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="15088:15211" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="15345:16508" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="16637:17014" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="17087:17410" placeholder="{...}" />
+                <marker date="1472471310398" expanded="true" signature="17523:24760" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="24880:25109" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="25234:25484" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="25591:25747" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="25811:25969" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="26118:26486" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="26567:26579" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="26686:26842" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="26906:26918" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="27037:27489" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="28164:28358" placeholder="{...}" />
+                <marker date="1472471310398" expanded="true" signature="28960:29151" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="29765:29958" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="33233:34140" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="34296:38041" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="38123:38477" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="38619:44339" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="44429:44803" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="44921:48188" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="48272:48623" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="48736:57369" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="57442:57738" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="57836:77205" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="77346:79138" placeholder="{...}" />
+                <marker date="1472471310398" expanded="false" signature="79264:81275" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SettingView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/SettingView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+              <folding>
+                <element signature="method#addActualDemurrageFactorView#0;class#SettingView#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComputedExchangerateView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/ComputedExchangerateView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="139" column="38" selection-start-line="139" selection-start-column="38" selection-end-line="139" selection-end-column="38" />
+              <folding>
+                <element signature="method#ComputedExchangerateView#0;class#ComputedExchangerateView#0" expanded="false" />
+                <element signature="method#construct_computed_exchangerateAddingControls#0;class#ComputedExchangerateView#0" expanded="false" />
+                <element signature="method#construct_computed_exchangerateUpdatingControls#0;class#ComputedExchangerateView#0" expanded="false" />
+                <element signature="method#getComputedExchangerateDatatobeAdded#0;class#ComputedExchangerateView#0" expanded="false" />
+                <element signature="method#getPreviousMonth#0;class#ComputedExchangerateView#0" expanded="false" />
+                <element signature="method#getPreviousThreeMonth#0;class#ComputedExchangerateView#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view/MainView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="400" column="68" selection-start-line="400" selection-start-column="68" selection-end-line="400" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/style/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1209" column="0" selection-start-line="1209" selection-start-column="0" selection-end-line="1209" selection-end-column="0" />
+              <folding>
+                <marker date="1472452880274" expanded="true" signature="1547:1717" placeholder="INSERT INTO exchangerate_table..." />
+                <marker date="1472452880274" expanded="true" signature="2924:3073" placeholder="SELECT com_e..computed_exchangerate_table..." />
+                <marker date="1472452880274" expanded="true" signature="3980:4128" placeholder="SELECT com_e..computed_exchangerate_table..." />
+                <marker date="1472452880274" expanded="true" signature="4983:5723" placeholder="UPDATE excha..." />
+                <marker date="1472452880274" expanded="true" signature="6659:6845" placeholder="SELECT excha..exchangerate_table..." />
+                <marker date="1472452880274" expanded="true" signature="7033:7231" placeholder="SELECT excha..exchangerate_table..." />
+                <marker date="1472452880274" expanded="true" signature="7438:7633" placeholder="INSERT INTO computed_exchangerate_table..." />
+                <marker date="1472452880274" expanded="true" signature="8720:8761" placeholder="SELECT * FRO..computed_exchangerate_table..." />
+                <marker date="1472452880274" expanded="true" signature="10245:10277" placeholder="SELECT * FRO..exchangerate_table..." />
+                <marker date="1472452880274" expanded="true" signature="11712:11784" placeholder="SELECT * FRO..exchangerate_table..." />
+                <marker date="1472452880274" expanded="true" signature="13721:13825" placeholder="INSERT INTO fip_table..." />
+                <marker date="1472452880274" expanded="true" signature="15014:15037" placeholder="SELECT * FRO..fip_table..." />
+                <marker date="1472452880274" expanded="true" signature="16277:16932" placeholder="UPDATE fip_t..." />
+                <marker date="1472452880274" expanded="true" signature="17971:18150" placeholder="SELECT fip_v..fip_table..." />
+                <marker date="1472452880274" expanded="true" signature="19274:19453" placeholder="SELECT fip_i..fip_table..." />
+                <marker date="1472452880274" expanded="true" signature="20923:21027" placeholder="INSERT INTO fob_table..." />
+                <marker date="1472452880274" expanded="true" signature="22216:22239" placeholder="SELECT * FRO..fob_table..." />
+                <marker date="1472452880274" expanded="true" signature="23833:23965" placeholder="SELECT fob_v..fob_table..." />
+                <marker date="1472452880274" expanded="true" signature="25091:25247" placeholder="SELECT fob_i..fob_table..." />
+                <marker date="1472452880274" expanded="true" signature="26418:26648" placeholder="INSERT INTO waa_conversion_factor_table..." />
+                <marker date="1472452880274" expanded="true" signature="28139:28413" placeholder="SELECT waa_c..waa_conversion_factor_table..." />
+                <marker date="1472452880274" expanded="true" signature="29551:29799" placeholder="SELECT waa_c..waa_conversion_factor_table..." />
+                <marker date="1472452880274" expanded="true" signature="30761:30802" placeholder="SELECT * FRO..waa_conversion_factor_table..." />
+                <marker date="1472452880274" expanded="true" signature="32441:32483" placeholder="SELECT * FRO..petroleum_marking_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="33953:34221" placeholder="INSERT INTO petroleum_marking_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="35510:35703" placeholder="SELECT petro..petroleum_marking_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="36758:36804" placeholder="SELECT * FRO..weighted_average_platt_fob_table..." />
+                <marker date="1472452880274" expanded="true" signature="38617:39103" placeholder="INSERT INTO weighted_average_platt_fob_table..." />
+                <marker date="1472452880274" expanded="true" signature="40931:41230" placeholder="SELECT weigh..weighted_average_platt_fob_table..." />
+                <marker date="1472452880274" expanded="true" signature="42375:42673" placeholder="SELECT weigh..weighted_average_platt_fob_table..." />
+                <marker date="1472452880274" expanded="true" signature="43921:44031" placeholder="SELECT * FRO..weighted_average_platt_fob_table..." />
+                <marker date="1472452880274" expanded="true" signature="45402:45456" placeholder="SELECT * FRO..weighted_average_premium_quatation_table..." />
+                <marker date="1472452880274" expanded="true" signature="47349:47915" placeholder="INSERT INTO weighted_average_premium_quatation_table..." />
+                <marker date="1472452880274" expanded="true" signature="49741:50080" placeholder="SELECT weigh..weighted_average_premium_quatation_table..." />
+                <marker date="1472452880274" expanded="true" signature="51229:51565" placeholder="SELECT weigh..weighted_average_premium_quatation_table..." />
+                <marker date="1472452880274" expanded="true" signature="52538:52570" placeholder="SELECT * FRO..wharfage_vat_table..." />
+                <marker date="1472452880274" expanded="true" signature="54086:54405" placeholder="INSERT INTO wharfage_vat_table..." />
+                <marker date="1472452880274" expanded="true" signature="56093:56322" placeholder="SELECT wharf..wharfage_vat_table..." />
+                <marker date="1472452880274" expanded="true" signature="57339:57592" placeholder="INSERT INTO wholesales_price_table..." />
+                <marker date="1472452880274" expanded="true" signature="59179:59401" placeholder="SELECT whole..wholesales_price_table..." />
+                <marker date="1472452880274" expanded="true" signature="60570:60793" placeholder="SELECT whole..wholesales_price_table..." />
+                <marker date="1472452880274" expanded="true" signature="62001:62223" placeholder="SELECT retai..retailers_margin_table..." />
+                <marker date="1472452880274" expanded="true" signature="63444:63671" placeholder="SELECT trans..transport_charges_table..." />
+                <marker date="1472452880274" expanded="true" signature="64943:65245" placeholder="SELECT charg..charges_payableto_local_agencies_table..." />
+                <marker date="1472452880274" expanded="true" signature="66480:66727" placeholder="SELECT omc_o..omc_overheads_margins_table..." />
+                <marker date="1472452880274" expanded="true" signature="67936:68138" placeholder="SELECT exrci..exrcise_duty_table..." />
+                <marker date="1472452880274" expanded="true" signature="69347:69534" placeholder="SELECT fuel_..fuel_levy_table..." />
+                <marker date="1472452880274" expanded="true" signature="70744:70951" placeholder="SELECT petro..petroleum_fee_table..." />
+                <marker date="1472452880274" expanded="true" signature="72180:72427" placeholder="SELECT custo..custom_processing_fee_table..." />
+                <marker date="1472452880274" expanded="true" signature="73672:73904" placeholder="SELECT evapo..evaporation_losses_table..." />
+                <marker date="1472452880274" expanded="true" signature="75140:75352" placeholder="SELECT finan..financing_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="76583:76800" placeholder="SELECT regul..regulatory_levy_table..." />
+                <marker date="1472452880274" expanded="true" signature="78025:78217" placeholder="SELECT tbs_c..tbs_charge_table..." />
+                <marker date="1472452880274" expanded="true" signature="79418:79605" placeholder="SELECT tiper..tiper_fee_table..." />
+                <marker date="1472452880274" expanded="true" signature="80833:81070" placeholder="SELECT weigh..weight_measures_fee_table..." />
+                <marker date="1472452880274" expanded="true" signature="82153:82185" placeholder="SELECT * FRO..cif_cost_dsm_table..." />
+                <marker date="1472452880274" expanded="true" signature="83861:84192" placeholder="INSERT INTO cif_cost_dsm_table..." />
+                <marker date="1472452880274" expanded="true" signature="86053:86255" placeholder="SELECT cif_c..cif_cost_dsm_table..." />
+                <marker date="1472452880274" expanded="true" signature="87099:87330" placeholder="INSERT INTO atr_vessel_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="88858:88893" placeholder="SELECT * FRO..atr_vessel_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="90781:91064" placeholder="SELECT atr_v..atr_vessel_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="92229:92515" placeholder="SELECT atr_v..atr_vessel_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="93372:93595" placeholder="INSERT INTO df_vessel_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="95168:95202" placeholder="SELECT * FRO..df_vessel_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="97114:97394" placeholder="SELECT df_ve..df_vessel_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="98562:98839" placeholder="SELECT df_ve..df_vessel_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="100169:100587" placeholder="INSERT INTO surveyors_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="102460:102494" placeholder="SELECT * FRO..surveyors_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="104581:104818" placeholder="SELECT surve..surveyors_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="105965:106182" placeholder="SELECT surve..surveyors_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="107604:108099" placeholder="INSERT INTO actual_demurrage_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="110163:110204" placeholder="SELECT * FRO..actual_demurrage_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="112415:112689" placeholder="SELECT actua..actual_demurrage_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="113850:114119" placeholder="SELECT actua..actual_demurrage_cost_table..." />
+                <marker date="1472452880274" expanded="true" signature="114940:115207" placeholder="INSERT INTO pump_price_cap_dsm_table..." />
+                <marker date="1472452880274" expanded="true" signature="116770:117028" placeholder="SELECT pump_..pump_price_cap_dsm_table..." />
+                <marker date="1472452880274" expanded="true" signature="117850:118095" placeholder="INSERT INTO government_taxes_table..." />
+                <marker date="1472452880274" expanded="true" signature="119613:119861" placeholder="SELECT gover..government_taxes_table..." />
+                <marker date="1472452880274" expanded="true" signature="120661:120927" placeholder="INSERT INTO local_cost_computed_table..." />
+                <marker date="1472452880274" expanded="true" signature="122384:122647" placeholder="SELECT local..local_cost_computed_table..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectionConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DatabaseConfiguration/ConnectionConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FIP.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Static/FIP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5714286">
+              <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/RegulatoryLevyInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/EvaporationLossesInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/WeightMeasuresFee.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/WeightedPremiumFIP.java" />
+        <option value="$PROJECT_DIR$/src/Static/ActualTenderRateStatic.java" />
+        <option value="$PROJECT_DIR$/src/Static/SurveyorCostStatic.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/SurveyorCostInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/ActualTenderRateInterface.java" />
+        <option value="$PROJECT_DIR$/src/view/ActualDemurrageFactor.java" />
+        <option value="$PROJECT_DIR$/src/view/ActualTenderRate.java" />
+        <option value="$PROJECT_DIR$/src/Static/ActualDemurrageCostStatic.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/ActualDemurrageCostInterface.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/view/SurveyorCost.java" />
+        <option value="$PROJECT_DIR$/src/view/ActualDemurrageCost.java" />
+        <option value="$PROJECT_DIR$/src/Static/CIFCostDaresSalaamStatic.java" />
+        <option value="$PROJECT_DIR$/src/view/CIFCostDaresalaam.java" />
+        <option value="$PROJECT_DIR$/src/Static/MarkingCost.java" />
+        <option value="$PROJECT_DIR$/src/view/MarkingCostView.java" />
+        <option value="$PROJECT_DIR$/src/view/WeightedAveragePremiumFIP.java" />
+        <option value="$PROJECT_DIR$/src/view/MonthlyReport.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/WharfageInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/MarkingCostInterface.java" />
+        <option value="$PROJECT_DIR$/src/Static/FOB.java" />
+        <option value="$PROJECT_DIR$/src/Static/LocalCost.java" />
+        <option value="$PROJECT_DIR$/src/Static/GovernmentTaxes.java" />
+        <option value="$PROJECT_DIR$/src/Static/PumpPriceCap.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/LocalCostInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/GovernmentTaxesInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/PumpPriceCapInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/ActualDemurrageFactorInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/CIFCostDaresSalaanInterface.java" />
+        <option value="$PROJECT_DIR$/src/view/ComputeGovernmentTaxes.java" />
+        <option value="$PROJECT_DIR$/src/view/FOBView.java" />
+        <option value="$PROJECT_DIR$/src/view/FIPView.java" />
+        <option value="$PROJECT_DIR$/src/view/WAA_conversion_factor.java" />
+        <option value="$PROJECT_DIR$/src/view/ComputedLocalCost.java" />
+        <option value="$PROJECT_DIR$/src/view/ComputedPumpPriceCapDaresSalaam.java" />
+        <option value="$PROJECT_DIR$/src/view/ComputedWholesalePriceCap.java" />
+        <option value="$PROJECT_DIR$/src/DatabaseConfiguration/ConnectionConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/resources/style/main.css" />
+        <option value="$PROJECT_DIR$/src/DAOInterfaceMethods/WeightedAveragePlattFOBInterface.java" />
+        <option value="$PROJECT_DIR$/src/model/Model.java" />
+        <option value="$PROJECT_DIR$/src/DataVisualization/YearlyHistogram.java" />
+        <option value="$PROJECT_DIR$/src/view/WeightedAveragePlattFOB.java" />
+        <option value="$PROJECT_DIR$/src/view/ComputedExchangerateView.java" />
+        <option value="$PROJECT_DIR$/src/view/WharfageVATView.java" />
+        <option value="$PROJECT_DIR$/src/view/ExchangeRateView.java" />
+        <option value="$PROJECT_DIR$/src/view/SettingView.java" />
+        <option value="$PROJECT_DIR$/src/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/view/MainView.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JavaFX</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DatabaseConfiguration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CapPetroleumPrice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Production">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CapPetroleumPrice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="CapPetroleumPrice">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-connector-java-5.1.38-bin.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="cappetroleumprice" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DevTools\CapPetroleumPrice\src\resources\style" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Static" />
+      <recent name="DataVisualization" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DevTools\CapPetroleumPrice\src\resources\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_CapPetroleumPrice" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="46378" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+      <module name="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CapPetroleumPrice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_CapPetroleumPrice_2" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="46382" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CapPetroleumPrice" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1459616794887" duration="4854000" />
+      <workItem from="1459663240473" duration="24615000" />
+      <workItem from="1459696083511" duration="8322000" />
+      <workItem from="1459705025894" duration="6780000" />
+      <workItem from="1459748137988" duration="3289000" />
+      <workItem from="1459787876857" duration="1055000" />
+      <workItem from="1459794207935" duration="5333000" />
+      <workItem from="1459822636307" duration="31896000" />
+      <workItem from="1459876713074" duration="180000" />
+      <workItem from="1459878984692" duration="5765000" />
+      <workItem from="1459889224664" duration="8250000" />
+      <workItem from="1459926225739" duration="13087000" />
+      <workItem from="1459945803801" duration="10004000" />
+      <workItem from="1459969285538" duration="619000" />
+      <workItem from="1460015083341" duration="8003000" />
+      <workItem from="1460033165948" duration="13006000" />
+      <workItem from="1460092580506" duration="6764000" />
+      <workItem from="1460103349548" duration="2188000" />
+      <workItem from="1460133447940" duration="80000" />
+      <workItem from="1460364419164" duration="142000" />
+      <workItem from="1460366883354" duration="354000" />
+      <workItem from="1460487329251" duration="278000" />
+      <workItem from="1460613424509" duration="577000" />
+      <workItem from="1460625391353" duration="386000" />
+      <workItem from="1460634629807" duration="620000" />
+      <workItem from="1460658756619" duration="1970000" />
+      <workItem from="1460708101176" duration="14781000" />
+      <workItem from="1460747604225" duration="1109000" />
+      <workItem from="1460788034454" duration="2672000" />
+      <workItem from="1460811975112" duration="77000" />
+      <workItem from="1460830430154" duration="14181000" />
+      <workItem from="1460917875827" duration="593000" />
+      <workItem from="1460970566246" duration="4058000" />
+      <workItem from="1460996587288" duration="5188000" />
+      <workItem from="1461051539074" duration="2127000" />
+      <workItem from="1461064300485" duration="9415000" />
+      <workItem from="1461130578674" duration="8706000" />
+      <workItem from="1461179026607" duration="1685000" />
+      <workItem from="1461266528924" duration="3731000" />
+      <workItem from="1461390791508" duration="5367000" />
+      <workItem from="1461442769738" duration="185000" />
+      <workItem from="1461528193204" duration="515000" />
+      <workItem from="1461563786184" duration="4990000" />
+      <workItem from="1461648872378" duration="2811000" />
+      <workItem from="1461654359255" duration="460000" />
+      <workItem from="1461654852531" duration="52000" />
+      <workItem from="1461655045647" duration="24461000" />
+      <workItem from="1461751937808" duration="627000" />
+      <workItem from="1461753357851" duration="683000" />
+      <workItem from="1461788787388" duration="24452000" />
+      <workItem from="1461852530480" duration="1420000" />
+      <workItem from="1461854736467" duration="4031000" />
+      <workItem from="1461869592794" duration="1109000" />
+      <workItem from="1461956638520" duration="683000" />
+      <workItem from="1462024185374" duration="147000" />
+      <workItem from="1462123199573" duration="372000" />
+      <workItem from="1462123704386" duration="81000" />
+      <workItem from="1462127375033" duration="60000" />
+      <workItem from="1462200786922" duration="614000" />
+      <workItem from="1462530902392" duration="646000" />
+      <workItem from="1462533695807" duration="764000" />
+      <workItem from="1462545409418" duration="226000" />
+      <workItem from="1462944233253" duration="7230000" />
+      <workItem from="1462953138780" duration="2303000" />
+      <workItem from="1462957839510" duration="14036000" />
+      <workItem from="1462997499747" duration="66000" />
+      <workItem from="1463025390060" duration="11602000" />
+      <workItem from="1463043093418" duration="4974000" />
+      <workItem from="1463059835614" duration="5310000" />
+      <workItem from="1463244319096" duration="1810000" />
+      <workItem from="1463250955823" duration="42417000" />
+      <workItem from="1463296449743" duration="602000" />
+      <workItem from="1463308892058" duration="496000" />
+      <workItem from="1463309903973" duration="19818000" />
+      <workItem from="1463332670584" duration="65000" />
+      <workItem from="1463351726050" duration="1238000" />
+      <workItem from="1463478200827" duration="594000" />
+      <workItem from="1463667680749" duration="656000" />
+      <workItem from="1463768113515" duration="190000" />
+      <workItem from="1463769996472" duration="214000" />
+      <workItem from="1463770377823" duration="247000" />
+      <workItem from="1463771283251" duration="503000" />
+      <workItem from="1464251004719" duration="151000" />
+      <workItem from="1464535896805" duration="25748000" />
+      <workItem from="1464599640442" duration="5468000" />
+      <workItem from="1464614444818" duration="4242000" />
+      <workItem from="1464970263548" duration="1743000" />
+      <workItem from="1465017762410" duration="1465000" />
+      <workItem from="1465022078952" duration="1202000" />
+      <workItem from="1465039353713" duration="10880000" />
+      <workItem from="1465240038998" duration="21000" />
+      <workItem from="1465585842749" duration="14016000" />
+      <workItem from="1465787982654" duration="273000" />
+      <workItem from="1465788286147" duration="8474000" />
+      <workItem from="1465798007343" duration="19246000" />
+      <workItem from="1465874079275" duration="47000" />
+      <workItem from="1465874173236" duration="50000" />
+      <workItem from="1465940058007" duration="2994000" />
+      <workItem from="1466149439270" duration="265000" />
+      <workItem from="1466187570699" duration="7102000" />
+      <workItem from="1466228433725" duration="1160000" />
+      <workItem from="1466339691589" duration="20000" />
+      <workItem from="1466431989219" duration="9767000" />
+      <workItem from="1466514075099" duration="10272000" />
+      <workItem from="1466581600032" duration="25438000" />
+      <workItem from="1466658363501" duration="16136000" />
+      <workItem from="1466772994736" duration="43812000" />
+      <workItem from="1466945869679" duration="599000" />
+      <workItem from="1466953822211" duration="32000" />
+      <workItem from="1466959368003" duration="682000" />
+      <workItem from="1467048615503" duration="628000" />
+      <workItem from="1467099957426" duration="1249000" />
+      <workItem from="1467125032529" duration="8155000" />
+      <workItem from="1467220133141" duration="2147000" />
+      <workItem from="1467265682595" duration="21684000" />
+      <workItem from="1467433665988" duration="13667000" />
+      <workItem from="1467483035015" duration="2319000" />
+      <workItem from="1467547776580" duration="16122000" />
+      <workItem from="1467581963866" duration="1929000" />
+      <workItem from="1467723892752" duration="8694000" />
+      <workItem from="1467732909800" duration="119000" />
+      <workItem from="1467821729224" duration="10669000" />
+      <workItem from="1467836097754" duration="2474000" />
+      <workItem from="1467893214270" duration="618000" />
+      <workItem from="1467914182327" duration="4697000" />
+      <workItem from="1467986288963" duration="718000" />
+      <workItem from="1468078009182" duration="21916000" />
+      <workItem from="1468393256504" duration="172000" />
+      <workItem from="1468396645493" duration="12000" />
+      <workItem from="1468683693823" duration="1719000" />
+      <workItem from="1469036906915" duration="1573000" />
+      <workItem from="1469197758259" duration="374000" />
+      <workItem from="1469240605430" duration="12882000" />
+      <workItem from="1469255755206" duration="26619000" />
+      <workItem from="1469305429374" duration="178000" />
+      <workItem from="1469328276068" duration="2674000" />
+      <workItem from="1469330988484" duration="5786000" />
+      <workItem from="1469372593806" duration="13901000" />
+      <workItem from="1469413689344" duration="33278000" />
+      <workItem from="1469453024277" duration="11962000" />
+      <workItem from="1469546322604" duration="967000" />
+      <workItem from="1469552346307" duration="2246000" />
+      <workItem from="1469691543680" duration="945000" />
+      <workItem from="1469693735150" duration="53000" />
+      <workItem from="1469694486072" duration="7121000" />
+      <workItem from="1469714948009" duration="8022000" />
+      <workItem from="1469793146359" duration="25000" />
+      <workItem from="1469849397062" duration="909000" />
+      <workItem from="1472449892167" duration="556000" />
+      <workItem from="1472451090839" duration="15835000" />
+      <workItem from="1472474285914" duration="236000" />
+      <workItem from="1472529072259" duration="1214000" />
+      <workItem from="1472906226325" duration="1508000" />
+      <workItem from="1472924288247" duration="1333000" />
+      <workItem from="1473078923040" duration="667000" />
+      <workItem from="1474985736001" duration="1393000" />
+      <workItem from="1475613425974" duration="150000" />
+      <workItem from="1475749416008" duration="596000" />
+      <workItem from="1475855377900" duration="14000" />
+      <workItem from="1475903984730" duration="595000" />
+      <workItem from="1477921379555" duration="610000" />
+      <workItem from="1481270892124" duration="1357000" />
+      <workItem from="1482828175259" duration="1681000" />
+      <workItem from="1483692926233" duration="419000" />
+      <workItem from="1484554132401" duration="94000" />
+      <workItem from="1486043334005" duration="254000" />
+      <workItem from="1486455673248" duration="71000" />
+      <workItem from="1489162070137" duration="558000" />
+      <workItem from="1490841386215" duration="587000" />
+      <workItem from="1491749826634" duration="654000" />
+      <workItem from="1493803429680" duration="604000" />
+      <workItem from="1503247707450" duration="18000" />
+      <workItem from="1504074151213" duration="213000" />
+      <workItem from="1505467108907" duration="186000" />
+      <workItem from="1506520534622" duration="11000" />
+      <workItem from="1506836292753" duration="544000" />
+      <workItem from="1508397941503" duration="362000" />
+      <workItem from="1509510609714" duration="145000" />
+      <workItem from="1509710862579" duration="552000" />
+      <workItem from="1509721962262" duration="2163000" />
+      <workItem from="1509855925990" duration="3892000" />
+      <workItem from="1510143327803" duration="19000" />
+      <workItem from="1511203225730" duration="21000" />
+      <workItem from="1512057875499" duration="59000" />
+      <workItem from="1512499221641" duration="410000" />
+      <workItem from="1512992046835" duration="88000" />
+      <workItem from="1513930330472" duration="100000" />
+      <workItem from="1514447833643" duration="589000" />
+      <workItem from="1516368182214" duration="37000" />
+      <workItem from="1517549293694" duration="34000" />
+      <workItem from="1517817005990" duration="13000" />
+      <workItem from="1519651241520" duration="1065000" />
+      <workItem from="1520676504694" duration="320000" />
+      <workItem from="1524638737693" duration="120000" />
+      <workItem from="1524928270236" duration="10000" />
+      <workItem from="1525699790809" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="919686000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3231018" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3231018" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6930533" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2700454" sideWeight="0.6703755" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37741935" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32272726" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39901477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4749596" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32471728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3231018" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37741935" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3231018" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32272726" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39901477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4749596" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6930533" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2700454" sideWeight="0.6703755" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32471728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="165" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Static/WeightPlattFIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6285714">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/CIFCostDaresSalaamStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37142858">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/WeightPlattFOB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37226278">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_71/javafx-src.zip!/javafx/geometry/Insets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/ExchangerateInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17142858">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/WharfageInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2">
+          <caret line="8" column="73" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/Wharfage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0302521">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/MarkingCostInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2">
+          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/Local_Cost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.114285715">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/MarkingCost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2571429">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/FOB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37142858">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/FOBInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/GovernmentTaxes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/GovernmentTaxesInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/LocalCostInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22857143">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/PumpPriceCap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94285715">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/PumpPriceCapInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08571429">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/LocalCost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33277312">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/WholeSalePriceCap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/WholeSalesPriceCap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22857143">
+          <caret line="9" column="77" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/ActualDemurrageFactorInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17142858">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/ChargesPayabletoLocalAgencies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.057142857">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/CIFCostDaresSalaanInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25714287">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ComputeGovernmentTaxes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31092438">
+          <caret line="287" column="53" selection-start-line="287" selection-start-column="53" selection-end-line="287" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/FIPView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94670844">
+          <caret line="65" column="46" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/WeightedAveragePremiumFIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.7030497">
+          <caret line="186" column="52" selection-start-line="186" selection-start-column="52" selection-end-line="186" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MarkingCostView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16372392">
+          <caret line="270" column="37" selection-start-line="270" selection-start-column="37" selection-end-line="270" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ComputedLocalCost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="395" column="56" selection-start-line="395" selection-start-column="56" selection-end-line="395" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ComputedPumpPriceCapDaresSalaam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="258" column="107" selection-start-line="258" selection-start-column="107" selection-end-line="258" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ComputedWholesalePriceCap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="307" column="0" selection-start-line="307" selection-start-column="0" selection-end-line="307" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/CIFCostDaresalaam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.100961536">
+          <caret line="318" column="5" selection-start-line="318" selection-start-column="5" selection-end-line="318" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MonthlyReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61858976">
+          <caret line="272" column="44" selection-start-line="272" selection-start-column="44" selection-end-line="272" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ActualDemurrageCost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028619528">
+          <caret line="364" column="45" selection-start-line="364" selection-start-column="45" selection-end-line="364" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/YearlyData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/WeightedAveragePlattFOB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.930977">
+          <caret line="603" column="52" selection-start-line="603" selection-start-column="52" selection-end-line="603" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAOInterfaceMethods/WeightedAveragePlattFOBInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22895622">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataVisualization/YearlyHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77272725">
+          <caret line="110" column="35" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/WharfageVATView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="160" column="48" selection-start-line="160" selection-start-column="48" selection-end-line="160" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/FOBView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="82" selection-start-line="47" selection-start-column="8" selection-end-line="48" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ExchangeRateView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/WAA_conversion_factor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="605" column="26" selection-start-line="605" selection-start-column="26" selection-end-line="605" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/SettingView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="57" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="57" />
+          <folding>
+            <element signature="method#addActualDemurrageFactorView#0;class#SettingView#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/MainView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="400" column="68" selection-start-line="400" selection-start-column="68" selection-end-line="400" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/style/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="502" column="86" selection-start-line="502" selection-start-column="86" selection-end-line="502" selection-end-column="86" />
+          <folding>
+            <element signature="method#call#0;class#5767:6097" expanded="false" />
+            <element signature="class#6871:7183" expanded="false" />
+            <element signature="method#call#0;class#6871:7183" expanded="false" />
+            <element signature="class#7784:8117" expanded="false" />
+            <element signature="method#call#0;class#7784:8117" expanded="false" />
+            <element signature="class#10641:10956" expanded="false" />
+            <element signature="method#call#0;class#10641:10956" expanded="false" />
+            <element signature="class#12076:12451" expanded="false" />
+            <element signature="method#call#0;class#12076:12451" expanded="false" />
+            <element signature="class#13174:13507" expanded="false" />
+            <element signature="method#call#0;class#13174:13507" expanded="false" />
+            <element signature="class#18516:18805" expanded="false" />
+            <element signature="method#call#0;class#18516:18805" expanded="false" />
+            <element signature="class#19159:19430" expanded="false" />
+            <element signature="method#call#0;class#19159:19430" expanded="false" />
+            <element signature="class#19830:20169" expanded="false" />
+            <element signature="method#call#0;class#19830:20169" expanded="false" />
+            <element signature="class#20633:20987" expanded="false" />
+            <element signature="method#call#0;class#20633:20987" expanded="false" />
+            <marker date="1472471310398" expanded="true" signature="3731:5257" placeholder="{...}" />
+            <marker date="1472471310398" expanded="true" signature="5348:5462" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="5589:6466" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="6532:6638" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="6707:7529" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="7605:8500" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="8576:9480" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="9544:10314" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="10468:11713" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="11895:12867" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="13018:13856" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="13964:14717" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="14838:14967" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="15088:15211" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="15345:16508" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="16637:17014" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="17087:17410" placeholder="{...}" />
+            <marker date="1472471310398" expanded="true" signature="17523:24760" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="24880:25109" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="25234:25484" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="25591:25747" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="25811:25969" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="26118:26486" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="26567:26579" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="26686:26842" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="26906:26918" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="27037:27489" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="28164:28358" placeholder="{...}" />
+            <marker date="1472471310398" expanded="true" signature="28960:29151" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="29765:29958" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="33233:34140" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="34296:38041" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="38123:38477" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="38619:44339" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="44429:44803" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="44921:48188" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="48272:48623" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="48736:57369" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="57442:57738" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="57836:77205" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="77346:79138" placeholder="{...}" />
+            <marker date="1472471310398" expanded="false" signature="79264:81275" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/ExchangeRate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.114285715">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DatabaseConfiguration/ConnectionConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1209" column="0" selection-start-line="1209" selection-start-column="0" selection-end-line="1209" selection-end-column="0" />
+          <folding>
+            <marker date="1472452880274" expanded="true" signature="1547:1717" placeholder="INSERT INTO exchangerate_table..." />
+            <marker date="1472452880274" expanded="true" signature="2924:3073" placeholder="SELECT com_e..computed_exchangerate_table..." />
+            <marker date="1472452880274" expanded="true" signature="3980:4128" placeholder="SELECT com_e..computed_exchangerate_table..." />
+            <marker date="1472452880274" expanded="true" signature="4983:5723" placeholder="UPDATE excha..." />
+            <marker date="1472452880274" expanded="true" signature="6659:6845" placeholder="SELECT excha..exchangerate_table..." />
+            <marker date="1472452880274" expanded="true" signature="7033:7231" placeholder="SELECT excha..exchangerate_table..." />
+            <marker date="1472452880274" expanded="true" signature="7438:7633" placeholder="INSERT INTO computed_exchangerate_table..." />
+            <marker date="1472452880274" expanded="true" signature="8720:8761" placeholder="SELECT * FRO..computed_exchangerate_table..." />
+            <marker date="1472452880274" expanded="true" signature="10245:10277" placeholder="SELECT * FRO..exchangerate_table..." />
+            <marker date="1472452880274" expanded="true" signature="11712:11784" placeholder="SELECT * FRO..exchangerate_table..." />
+            <marker date="1472452880274" expanded="true" signature="13721:13825" placeholder="INSERT INTO fip_table..." />
+            <marker date="1472452880274" expanded="true" signature="15014:15037" placeholder="SELECT * FRO..fip_table..." />
+            <marker date="1472452880274" expanded="true" signature="16277:16932" placeholder="UPDATE fip_t..." />
+            <marker date="1472452880274" expanded="true" signature="17971:18150" placeholder="SELECT fip_v..fip_table..." />
+            <marker date="1472452880274" expanded="true" signature="19274:19453" placeholder="SELECT fip_i..fip_table..." />
+            <marker date="1472452880274" expanded="true" signature="20923:21027" placeholder="INSERT INTO fob_table..." />
+            <marker date="1472452880274" expanded="true" signature="22216:22239" placeholder="SELECT * FRO..fob_table..." />
+            <marker date="1472452880274" expanded="true" signature="23833:23965" placeholder="SELECT fob_v..fob_table..." />
+            <marker date="1472452880274" expanded="true" signature="25091:25247" placeholder="SELECT fob_i..fob_table..." />
+            <marker date="1472452880274" expanded="true" signature="26418:26648" placeholder="INSERT INTO waa_conversion_factor_table..." />
+            <marker date="1472452880274" expanded="true" signature="28139:28413" placeholder="SELECT waa_c..waa_conversion_factor_table..." />
+            <marker date="1472452880274" expanded="true" signature="29551:29799" placeholder="SELECT waa_c..waa_conversion_factor_table..." />
+            <marker date="1472452880274" expanded="true" signature="30761:30802" placeholder="SELECT * FRO..waa_conversion_factor_table..." />
+            <marker date="1472452880274" expanded="true" signature="32441:32483" placeholder="SELECT * FRO..petroleum_marking_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="33953:34221" placeholder="INSERT INTO petroleum_marking_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="35510:35703" placeholder="SELECT petro..petroleum_marking_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="36758:36804" placeholder="SELECT * FRO..weighted_average_platt_fob_table..." />
+            <marker date="1472452880274" expanded="true" signature="38617:39103" placeholder="INSERT INTO weighted_average_platt_fob_table..." />
+            <marker date="1472452880274" expanded="true" signature="40931:41230" placeholder="SELECT weigh..weighted_average_platt_fob_table..." />
+            <marker date="1472452880274" expanded="true" signature="42375:42673" placeholder="SELECT weigh..weighted_average_platt_fob_table..." />
+            <marker date="1472452880274" expanded="true" signature="43921:44031" placeholder="SELECT * FRO..weighted_average_platt_fob_table..." />
+            <marker date="1472452880274" expanded="true" signature="45402:45456" placeholder="SELECT * FRO..weighted_average_premium_quatation_table..." />
+            <marker date="1472452880274" expanded="true" signature="47349:47915" placeholder="INSERT INTO weighted_average_premium_quatation_table..." />
+            <marker date="1472452880274" expanded="true" signature="49741:50080" placeholder="SELECT weigh..weighted_average_premium_quatation_table..." />
+            <marker date="1472452880274" expanded="true" signature="51229:51565" placeholder="SELECT weigh..weighted_average_premium_quatation_table..." />
+            <marker date="1472452880274" expanded="true" signature="52538:52570" placeholder="SELECT * FRO..wharfage_vat_table..." />
+            <marker date="1472452880274" expanded="true" signature="54086:54405" placeholder="INSERT INTO wharfage_vat_table..." />
+            <marker date="1472452880274" expanded="true" signature="56093:56322" placeholder="SELECT wharf..wharfage_vat_table..." />
+            <marker date="1472452880274" expanded="true" signature="57339:57592" placeholder="INSERT INTO wholesales_price_table..." />
+            <marker date="1472452880274" expanded="true" signature="59179:59401" placeholder="SELECT whole..wholesales_price_table..." />
+            <marker date="1472452880274" expanded="true" signature="60570:60793" placeholder="SELECT whole..wholesales_price_table..." />
+            <marker date="1472452880274" expanded="true" signature="62001:62223" placeholder="SELECT retai..retailers_margin_table..." />
+            <marker date="1472452880274" expanded="true" signature="63444:63671" placeholder="SELECT trans..transport_charges_table..." />
+            <marker date="1472452880274" expanded="true" signature="64943:65245" placeholder="SELECT charg..charges_payableto_local_agencies_table..." />
+            <marker date="1472452880274" expanded="true" signature="66480:66727" placeholder="SELECT omc_o..omc_overheads_margins_table..." />
+            <marker date="1472452880274" expanded="true" signature="67936:68138" placeholder="SELECT exrci..exrcise_duty_table..." />
+            <marker date="1472452880274" expanded="true" signature="69347:69534" placeholder="SELECT fuel_..fuel_levy_table..." />
+            <marker date="1472452880274" expanded="true" signature="70744:70951" placeholder="SELECT petro..petroleum_fee_table..." />
+            <marker date="1472452880274" expanded="true" signature="72180:72427" placeholder="SELECT custo..custom_processing_fee_table..." />
+            <marker date="1472452880274" expanded="true" signature="73672:73904" placeholder="SELECT evapo..evaporation_losses_table..." />
+            <marker date="1472452880274" expanded="true" signature="75140:75352" placeholder="SELECT finan..financing_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="76583:76800" placeholder="SELECT regul..regulatory_levy_table..." />
+            <marker date="1472452880274" expanded="true" signature="78025:78217" placeholder="SELECT tbs_c..tbs_charge_table..." />
+            <marker date="1472452880274" expanded="true" signature="79418:79605" placeholder="SELECT tiper..tiper_fee_table..." />
+            <marker date="1472452880274" expanded="true" signature="80833:81070" placeholder="SELECT weigh..weight_measures_fee_table..." />
+            <marker date="1472452880274" expanded="true" signature="82153:82185" placeholder="SELECT * FRO..cif_cost_dsm_table..." />
+            <marker date="1472452880274" expanded="true" signature="83861:84192" placeholder="INSERT INTO cif_cost_dsm_table..." />
+            <marker date="1472452880274" expanded="true" signature="86053:86255" placeholder="SELECT cif_c..cif_cost_dsm_table..." />
+            <marker date="1472452880274" expanded="true" signature="87099:87330" placeholder="INSERT INTO atr_vessel_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="88858:88893" placeholder="SELECT * FRO..atr_vessel_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="90781:91064" placeholder="SELECT atr_v..atr_vessel_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="92229:92515" placeholder="SELECT atr_v..atr_vessel_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="93372:93595" placeholder="INSERT INTO df_vessel_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="95168:95202" placeholder="SELECT * FRO..df_vessel_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="97114:97394" placeholder="SELECT df_ve..df_vessel_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="98562:98839" placeholder="SELECT df_ve..df_vessel_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="100169:100587" placeholder="INSERT INTO surveyors_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="102460:102494" placeholder="SELECT * FRO..surveyors_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="104581:104818" placeholder="SELECT surve..surveyors_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="105965:106182" placeholder="SELECT surve..surveyors_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="107604:108099" placeholder="INSERT INTO actual_demurrage_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="110163:110204" placeholder="SELECT * FRO..actual_demurrage_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="112415:112689" placeholder="SELECT actua..actual_demurrage_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="113850:114119" placeholder="SELECT actua..actual_demurrage_cost_table..." />
+            <marker date="1472452880274" expanded="true" signature="114940:115207" placeholder="INSERT INTO pump_price_cap_dsm_table..." />
+            <marker date="1472452880274" expanded="true" signature="116770:117028" placeholder="SELECT pump_..pump_price_cap_dsm_table..." />
+            <marker date="1472452880274" expanded="true" signature="117850:118095" placeholder="INSERT INTO government_taxes_table..." />
+            <marker date="1472452880274" expanded="true" signature="119613:119861" placeholder="SELECT gover..government_taxes_table..." />
+            <marker date="1472452880274" expanded="true" signature="120661:120927" placeholder="INSERT INTO local_cost_computed_table..." />
+            <marker date="1472452880274" expanded="true" signature="122384:122647" placeholder="SELECT local..local_cost_computed_table..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ComputedExchangerateView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="139" column="38" selection-start-line="139" selection-start-column="38" selection-end-line="139" selection-end-column="38" />
+          <folding>
+            <element signature="method#ComputedExchangerateView#0;class#ComputedExchangerateView#0" expanded="false" />
+            <element signature="method#construct_computed_exchangerateAddingControls#0;class#ComputedExchangerateView#0" expanded="false" />
+            <element signature="method#construct_computed_exchangerateUpdatingControls#0;class#ComputedExchangerateView#0" expanded="false" />
+            <element signature="method#getComputedExchangerateDatatobeAdded#0;class#ComputedExchangerateView#0" expanded="false" />
+            <element signature="method#getPreviousMonth#0;class#ComputedExchangerateView#0" expanded="false" />
+            <element signature="method#getPreviousThreeMonth#0;class#ComputedExchangerateView#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Static/FIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5714286">
+          <caret line="22" column="61" selection-start-line="22" selection-start-column="61" selection-end-line="22" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CapPetroleumPrice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
